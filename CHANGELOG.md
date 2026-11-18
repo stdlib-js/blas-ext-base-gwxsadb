@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`da842eb`](https://github.com/stdlib-js/stdlib/commit/da842ebf83d408fe990a6bd64fc8ab7f47bd5935) - **docs:** fix format specifier in examples [(#16693)](https://github.com/stdlib-js/stdlib/pull/16693) _(by Philipp Burckhardt)_
 -   [`a19f991`](https://github.com/stdlib-js/stdlib/commit/a19f9915f951b76394c835da27c3289af4744759) - **feat:** add `blas/ext/base/gwxsadb` [(#16418)](https://github.com/stdlib-js/stdlib/pull/16418) _(by Karan Anand, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
